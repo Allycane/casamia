@@ -1,2 +1,0 @@
-# casamia
-casamia semi-project
